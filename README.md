@@ -13,16 +13,14 @@ Je découvre les bases de l'informatique à Limoges. Entre l'algorithmie, l'admi
 ### 🛠️ Mes projets (SAÉ)
 Le BUT est très axé sur la pratique. Voici les projets (SAÉ) que j'ai pu réaliser :
 
-* **Programmation & Algo (SAÉ 1.01 & 1.02) :** Création de mes premiers vrais programmes en Python. J'apprends à structurer mon code proprement et à résoudre des problèmes logiques.
+* **Programmation & Algo (SAÉ 1.01 & 1.02) :** Création de mes premiers vrais programmes en Python. Première application en python avec des visuels consoles.
 * **Système (SAÉ 1.03) :** Découverte de l'environnement Linux. Je commence à être à l'aise avec le terminal et la gestion de fichiers.
 * **Bases de données (SAÉ 1.04) :** Apprentissage du SQL pour concevoir et manipuler des données efficacement.
-
-> 💡 *Tu peux retrouver certains de mes dépôts ci-dessous pour voir ce que je code concrètement.*
 
 ---
 
 ### 💻 Ce que j'utilise
-* **Langages :** Python, Java, SQL
+* **Langages :** Python Java Bash HTML5 PostgreSQL MySQL
 * **Outils :** Git, Terminal Linux (Bash)
 * **Centres d'intérêt :** Scripting, Sécurité réseau, Cryptographie
 
