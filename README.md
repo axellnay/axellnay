@@ -48,6 +48,6 @@ Dans le vie, j'ai quelques passions telles que :
 
 ### 📫 Pour me contacter
 * **Mail :** [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:axel.launay@etu.unilim.fr)
-* **LinkedIn :** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)] En cours de construction...
+* **LinkedIn :** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/) En cours de construction...
 * **Discord :** ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white) `axel_lnay`
 * **GitHub :** [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/axellnay)
