@@ -14,7 +14,7 @@ I am a first-year Computer Science student at **IUT du Limousin (BUT Informatiqu
 ### 🛠️ Projects & SAÉ (Learning & Evaluation Situations)
 During my studies, I work on various hands-on projects called SAÉs. These allow me to tackle real-world problems:
 
-* **SAÉ 1.01 & 1.02 - Algorithms & Programming:** Implementation of structured solutions and development of my first applications (often in Python or C).
+* **SAÉ 1.01 & 1.02 - Algorithms & Programming:** Implementation of structured solutions and development of my first applications (in Python).
 * **SAÉ 1.03 - Introduction to Systems:** Understanding how operating systems work and managing environments via the terminal.
 * **SAÉ 1.04 - Databases:** Designing and querying SQL databases to manage information efficiently.
 
@@ -23,7 +23,7 @@ During my studies, I work on various hands-on projects called SAÉs. These allow
 ---
 
 ### 🛠️ Tech Stack (In Progress)
-- **Languages:** Python, C, SQL
+- **Languages:** Python, Java, SQL
 - **Tools:** Git, Linux Terminal
 - **Interests:** Scripting, Network Security, Cryptography
 
