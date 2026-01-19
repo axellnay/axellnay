@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Axel 
+# Hi there! 👋
 
 I am a first-year Computer Science student at **IUT du Limousin (BUT Informatique)**, passionate about software development and driven by a long-term goal of becoming a **Cybersecurity Engineer**.
 
