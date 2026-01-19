@@ -3,7 +3,7 @@
 Passionné par le dev, mon objectif est de m'orienter vers la **cybersécurité** pour devenir ingénieur dans ce domaine. Je découvre les bases de l'informatique à Limoges. 
 Entre l'algorithmie, l'administration système et la gestion de projet, j'apprends à construire des bases solides pour la suite de mes études.
 
-### 💻 Languages
+### 💻 Langages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
