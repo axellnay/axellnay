@@ -1,39 +1,41 @@
-# Hi there! 👋
+# Salut ! 👋
 
-I am a first-year Computer Science student at **IUT du Limousin (BUT Informatique)**, passionate about software development and driven by a long-term goal of becoming a **Cybersecurity Engineer**.
-
----
-
-### 🎓 Education & Goals
-- 🏫 Currently in my 1st year of **BUT Informatique**.
-- 💻 Learning the fundamentals of programming, algorithms, and systems.
-- 🛡️ Aspiring to specialize in **Cybersecurity** to protect digital infrastructures.
+Étudiant en 1ère année de **BUT Informatique à l'IUT du Limousin**. 
+Passionné par le dev, mon objectif est de m'orienter vers la **cybersécurité** pour devenir ingénieur dans ce domaine.
 
 ---
 
-### 🛠️ Projects & SAÉ (Learning & Evaluation Situations)
-During my studies, I work on various hands-on projects called SAÉs. These allow me to tackle real-world problems:
-
-* **SAÉ 1.01 & 1.02 - Algorithms & Programming:** Implementation of structured solutions and development of my first applications (in Python).
-* **SAÉ 1.03 - Introduction to Systems:** Understanding how operating systems work and managing environments via the terminal.
-* **SAÉ 1.04 - Databases:** Designing and querying SQL databases to manage information efficiently.
-
-> 💡 *Check out my repositories below to see the source code for these projects!*
+### 🎓 Mon parcours actuel
+Je découvre les bases de l'informatique à Limoges. Entre l'algorithmie, l'administration système et la gestion de projet, j'apprends à construire des bases solides pour la suite de mes études.
 
 ---
 
-### 🛠️ Tech Stack (In Progress)
-- **Languages:** Python, Java, SQL
-- **Tools:** Git, Linux Terminal
-- **Interests:** Scripting, Network Security, Cryptography
+### 🛠️ Mes projets (SAÉ)
+Le BUT est très axé sur la pratique. Voici les projets (SAÉ) que j'ai pu réaliser :
+
+* **Programmation & Algo (SAÉ 1.01 & 1.02) :** Création de mes premiers vrais programmes en Python. J'apprends à structurer mon code proprement et à résoudre des problèmes logiques.
+* **Système (SAÉ 1.03) :** Découverte de l'environnement Linux. Je commence à être à l'aise avec le terminal et la gestion de fichiers.
+* **Bases de données (SAÉ 1.04) :** Apprentissage du SQL pour concevoir et manipuler des données efficacement.
+
+> 💡 *Tu peux retrouver certains de mes dépôts ci-dessous pour voir ce que je code concrètement.*
 
 ---
 
-### 🏀 Beyond Coding
-When I'm not behind a screen, you'll probably find me on a **basketball court**. I value team spirit and perseverance—qualities that I also apply to my technical troubleshooting.
+### 💻 Ce que j'utilise
+* **Langages :** Python, Java, SQL
+* **Outils :** Git, Terminal Linux (Bash)
+* **Centres d'intérêt :** Scripting, Sécurité réseau, Cryptographie
 
 ---
 
-### 📫 Connect with me
-- 📧 **Email:** [axel.launay@etu.unilim.fr](mailto:axel.launay@etu.unilim.fr)
-- 📂 **Portfolio:** You are already here! Feel free to explore my repositories.
+### 🏀 Un peu plus sur moi
+Dans le vie, j'ai quelques passions telles que :
+- Le basketball
+- L'automobile
+- La cuisine
+
+---
+
+### 📫 Me contacter
+* **Mail :** [axel.launay@etu.unilim.fr](mailto:axel.launay@etu.unilim.fr)
+* N'hésite pas à jeter un œil à mes dossiers pour voir mes travaux !
