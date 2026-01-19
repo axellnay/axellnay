@@ -1,9 +1,5 @@
 # 🛡️ Axel LAUNAY | Étudiant en BUT Informatique
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Bienvenue%20sur%20mon%20Profil&fontSize=50" alt="Header" />
-</p>
-
 ### 🎓 Mon Parcours
 Étudiant en 1ère année de **BUT Informatique à l'IUT du Limousin**. Passionné par le développement, mon objectif est de m'orienter vers la **cybersécurité** pour devenir ingénieur dans ce domaine. Je découvre actuellement les bases de l'informatique à Limoges, entre algorithmie, administration système et gestion de projet.
 
